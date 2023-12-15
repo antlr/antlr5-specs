@@ -23,4 +23,4 @@ Antlr5 relies on WebAssembly, which is still bleeding edge, notably for required
 We believe it will take many months before it is mature enough for production.
 We're using this time and this space to clarify how Antlr5 will look like, and to make informed technical decisions.
 
-All the efforts happen in discussions.
+All the efforts happen in this repo's GitHub discussions.
